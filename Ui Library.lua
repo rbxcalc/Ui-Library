@@ -1,6 +1,6 @@
 -- // Welcome To;
 
--- // Jon's Ui Library !
+-- // The Ui Library !
 local LibraryName = 'Ui-Library';
 
 local StartTick = tick();
